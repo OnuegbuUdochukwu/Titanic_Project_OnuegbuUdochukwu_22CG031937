@@ -2,5 +2,5 @@
 2. Matric Number: 22CG031937
 3. Machine Learning Algorithm Used: Random Forest Classifier
 4. Model persistence method used: Pickle
-5. Live URL of the hosted application: [INSERT RENDER/VERCEL URL HERE]
+5. Live URL of the hosted application: https://titanic-project-onuegbuudochukwu.onrender.com
 6. GitHub repository link: https://github.com/OnuegbuUdochukwu/Titanic_Project_OnuegbuUdochukwu_22CG031937.git
